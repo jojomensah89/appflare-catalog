@@ -25,7 +25,7 @@
   // One release line for the whole repository: each tag ships the Obsidian
   // plugin, and the server in apps/api at the same commit is the one that
   // plugin version expects.
-  "source": { "ref": "0.5.5", "sha": "a190f1f2ca1dbec7e1b3aa77f1e9f18297851968" },
+  "source": { "ref": "0.5.8", "sha": "cedf4fb089f6a9b212c2723ce1e1b20f6f9d7b7b" },
   "install": {
     // A pnpm workspace (apps/*, packages/*); the root lockfile covers apps/api.
     "packageManager": "pnpm",
